@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+/*
 int main(){
     int number,guess,ngusesses=1;
     srand(time(0));
@@ -29,3 +30,4 @@ int main(){
 
     return 0;
 }
+*/
