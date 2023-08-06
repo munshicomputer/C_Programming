@@ -5,9 +5,9 @@
 int main(){
     int number,guess,ngusesses=1;
     srand(time(0));
-    number = rand()%100+1;//Genarates a random number between 1 and 100
-    // printf("The number is %d\n", number);
-    printf("***This is an Game wich genarate a random number this number gusse you.***\n\n");
+    number = rand()%100+1;//Generates a random number between 1 and 100
+    // print f("The number is %d\n", number);
+    printf("***This is an Game which generate a random number this number guses you.***\n\n");
     do
     {
         printf("Guess the number between 1 to 100\n");
@@ -26,6 +26,6 @@ int main(){
         }
         ngusesses++;
     } while (guess!=number);
-    
+
     return 0;
 }

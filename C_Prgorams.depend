@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1691294109 source:c:\users\shamim munshi\desktop\git projects\c_prgorams\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1691294069 source:c:\users\shamim munshi\desktop\git projects\c_prgorams\rendomnumberguess.c
+	<stdio.h>
+
